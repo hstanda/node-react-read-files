@@ -3,8 +3,8 @@
 
 Open index.js file and update the HOME_DIR path
 
-Current Path  
-## `const HOME_DIR = '/var/log/nodejs'
+## Update path for constant
+const HOME_DIR = '/var/log/nodejs'
 
 ## Run Node Server
 
